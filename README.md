@@ -1,6 +1,7 @@
 # 🎬 Netflix Clone - Projeto Alura
 
 Um projeto de clone da Netflix desenvolvido durante uma **imersão da Alura**, onde revisei conceitos fundamentais de desenvolvimento web e aprimorei minhas habilidades utilizando **GitHub Copilot** como assistente de programação.
+<img src="./assets/site1.png">
 
 ## 📋 Sobre o Projeto
 
@@ -51,6 +52,7 @@ alura_netflix/
             ├── Card.js       # Componente de card de filme
             └── Carousel.js   # Componente de carrossel
 ```
+<img src="./assets/site2.png">
 
 ## 🚀 Como Usar
 
@@ -107,13 +109,12 @@ Este projeto foi desenvolvido durante uma **Imersão da Alura**, onde:
 - **GitHub Copilot** - Assistência em desenvolvimento e compreensão de código
 - **Netflix** - Inspiração no design e funcionalidades
 
-## 📝 Licença
-
-Este projeto é educacional e foi desenvolvido para fins de aprendizado.
+## 📝 Links do Projeto
 
 - Link do site na Vercel: [https://clone-netflix-xi-one.vercel.app/index.html](https://clone-netflix-xi-one.vercel.app/index.html)
 - Segue lá no Github: [https://github.com/Carlos-CGS](https://github.com/Carlos-CGS)
 - Segue lá no Linkedin: [https://www.linkedin.com/in/carlos-cgs/](https://www.linkedin.com/in/carlos-cgs/)
+
 
 
 
