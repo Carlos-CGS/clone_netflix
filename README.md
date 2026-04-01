@@ -111,4 +111,9 @@ Este projeto foi desenvolvido durante uma **Imersão da Alura**, onde:
 
 Este projeto é educacional e foi desenvolvido para fins de aprendizado.
 
+- Link do site na Vercel: [https://clone-netflix-xi-one.vercel.app/index.html](https://clone-netflix-xi-one.vercel.app/index.html)
+- Segue lá no Github: [https://github.com/Carlos-CGS](https://github.com/Carlos-CGS)
+- Segue lá no Linkedin: [https://www.linkedin.com/in/carlos-cgs/](https://www.linkedin.com/in/carlos-cgs/)
+
+
 
